@@ -1,1 +1,1 @@
-from features.organizations.models.organizations import Organization
+from features.orgafrom features.organizations.models.organizations import Organizationnizations.models.organizations import Organization
